@@ -1,0 +1,4 @@
+[Version]
+LatestVersion=7.8.0.0
+ReleaseDate=2024-12-20
+DownloadURL=https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/updater/updater.exe
