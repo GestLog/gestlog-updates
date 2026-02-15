@@ -2,11 +2,11 @@
 
 [Update]
 Name = GestLog
-ProductVersion = 4.2.6.0
-URL = https://github.com/GestLog/gestlog-updates/releases/download/v4.2.6.0/GLMAJ.exe
-Size = 114525174
-SHA256 = D0546C7FE3F2A26EB9944ABD0F63667F00C40032D1857B21316A602687C0E540
-MD5 = 117b43a025c5148155b536f3e811e329
+ProductVersion = 4.2.7.0
+URL = https://github.com/GestLog/gestlog-updates/releases/download/v4.2.7.0/GLMAJ.exe
+Size = 114523681
+SHA256 = AEF59669B2685BB10FABCF705A72AFD935A95C853DE44A9E3830B8F2F096908C
+MD5 = f27f4337a0fa4bc32e54ca776416bc71
 ServerFileName = GLMAJ.exe
 RegistryKey = HKUD\Software\3bs\GestLog\Version
-Version = 4.2.6.0
+Version = 4.2.7.0
